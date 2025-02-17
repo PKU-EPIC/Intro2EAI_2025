@@ -15,8 +15,7 @@ layout: home
 * Proficency in Python
 
 ## Grading 
-* Assignments(40%)
-* Midterm (30%)
-* Final (30%)
+* Assignments (60%)
+* Midterm (40%)
   <!--- TODO: Office Hour and Grading --->
 
