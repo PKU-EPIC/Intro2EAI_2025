@@ -17,3 +17,6 @@ layout: home
 * Midterm (40%)
   <!--- TODO: Office Hour and Grading --->
 
+## Real Robot Experiment
+* There will be a hands-on experiment with humanoid or quadruped robots to validate embodied skills (time undetermined)
+
