@@ -1,6 +1,6 @@
 ---
-type: lecture
-date: 2025-06-23T23:59:59+8:49
+type: lab
+date: Undetermined
 title: Real Robot Experiments
 ---
 Hands-on Experiments with Humanoid or Quadruped Robots to Validate Embodied Skills
