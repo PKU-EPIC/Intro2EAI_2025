@@ -3,30 +3,20 @@ layout: home
 ---
 
 ## Logistics
-* Time: Wednesday 3:10 - 6:00 PM
-* Location: 
-    * Room 202, Teaching Builing, Peking University Changping Campus
-* Office Hour: Friday 4:30PM - 5:30PM (Dinghao Builing A 1701, Haidian District)
-
+* Time: Monday 3:10 - 6:00 PM
+* Location: Room 207, Classroom Building No.3, Peking University
+* Office Hour: #TODO: Friday 5:00PM - 6:00PM (Room 106-1, Courtyard No.5, Jingyuan)
 
 
 ## Prerequisite
-* Courses
-  * Deep Learning
-  * Computer Vision
-  * University-level Mechanics
-* Coding
-  * Proficiency in Python
-  * Familiar with PyTorch
+* College Calculus
+* Linear Algebra
+* Basic Probability and Statistics
+* Proficency in Python
 
- 
-## Grading 
-* 3 Assignments: each 20%, in total 60%
-* 1 Group Project: 40%
-
-<!--- Please see [Assignments](https://hughw19.github.io/IntrotoCV/assignments/) page for more information. --->
-
-
-
-
+## Grading # TODO:
+* Assignments(40%)
+* Midterm (30%)
+* Final (30%)
+  <!--- Please see [Assignments](https://hughw19.github.io/IntrotoCV/assignments/) page for more information. --->
 

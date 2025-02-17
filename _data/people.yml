@@ -5,10 +5,11 @@ instructors:
 
 
 teaching_assistants:
-  - name: Jiangran Lyu
-    profile_pic: /_images/pp/jiangranlv.jpg
-    webpage: https://jiangranlv.github.io/
-  - name: Tan-Dzung Do
-    profile_pic: /_images/pp/xunyong_profile_square.jpg
-    webpage: https://dotandung.github.io/
 
+  - name: Hao Shen
+    profile_pic: /_images/pp/haoshen_image.jpg
+    webpage: https://shen-hhao.github.io/
+  
+  - name: Haoran Liu
+    profile_pic: /_images/pp/haoran_image.png
+    webpage: https://http://lhrrhl0419.github.io/
