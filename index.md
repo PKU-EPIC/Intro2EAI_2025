@@ -4,7 +4,7 @@ layout: home
 
 ## Logistics
 * Time: Monday 3:10 - 6:00 PM
-* Location: Room 207, Classroom Building No.3, Peking University
+* Location: Room 207, Teaching Building No.3, Peking University
 
 
 ## Prerequisite
