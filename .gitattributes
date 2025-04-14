@@ -1,0 +1,1 @@
+static_files/assignments/Assignment2.zip filter=lfs diff=lfs merge=lfs -text
