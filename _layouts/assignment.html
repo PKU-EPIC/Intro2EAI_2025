@@ -26,6 +26,15 @@ title: page.title
       {% if page.attachment %}
       [<a href="{{ page.attachment | prepend: site.baseurl }}">attachment</a>]
       {% endif %}
+      {% if page.attachment_part1 %}
+      [<a href="{{ page.attachment_part1 | prepend: site.baseurl }}">attachment_part1</a>]
+      {% endif %}
+      {% if page.attachment_part2 %}
+      [<a href="{{ page.attachment_part2 | prepend: site.baseurl }}">attachment_part2</a>]
+      {% endif %}
+      {% if page.attachment_part3 %}
+      [<a href="{{ page.attachment_part3 | prepend: site.baseurl }}">attachment_part3</a>]
+      {% endif %}
       {% if page.solutions %}
       [<a href="{{ page.solutions | prepend: site.baseurl }}">solutions</a>]
       {% endif %}
