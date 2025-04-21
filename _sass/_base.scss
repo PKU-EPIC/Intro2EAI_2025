@@ -470,6 +470,22 @@ a.tosu {
     }
   }
 
+  .experiment-container {
+  
+    display: flex;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    .thumbnail {
+      width: 120px;
+    }
+    
+    .content {
+      flex: 1;
+    }
+  }
+
   .previous-offerings{
     list-style-type: none;
     
@@ -495,6 +511,17 @@ a.tosu {
     font-weight: normal;
     font-family: inherit;
   }
+
+  .experiment-links {
+      font-weight: bold;
+      font-family: 'Titillium Web', sans-serif;
+  }
+
+  .schedule-experiment-links {
+    font-weight: normal;
+    font-family: inherit;
+  }
+
 
 .markdown-content {
     p,ol {

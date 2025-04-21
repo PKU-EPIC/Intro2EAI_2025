@@ -1,0 +1,37 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<ul id="archive">
+{% for experiment in site.experiments %}
+<li class="archiveposturl" style="background: transparent">
+<div class="experiment-container">
+    {% if experiment.thumbnail %}
+    <div class="thumbnail">
+      <div class="center-cropped" style="margin-top:5px;margin-bottom:5px;background-image: url('{{ experiment.thumbnail | prepend: site.baseurl }}');">
+        <img src="{{ experiment.thumbnail | prepend: site.baseurl }}"/>
+      </div>
+    </div>
+    {% endif %}
+    <div class="content">
+        <span style="font-weight: bold;">{{ experiment.title }}</span><br>
+
+        <strong>tl;dr:</strong> {{ experiment.tldr }}
+        <br/>
+        <strong>
+        {% include experiment_links.html experiment=experiment %}
+        </strong>
+
+        {% if experiment.content != '' %}
+        <br/>
+        <div class="markdown-content" style="margin-top: 3px;">
+        {{ experiment.content }}
+        </div>
+        {% endif %}
+    </div>
+</div>
+</li>
+{% endfor %}
+</ul>
